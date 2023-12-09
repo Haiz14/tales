@@ -1,0 +1,125 @@
+const e=`World of Tales
+The lion and the crane
+Indian Folktale
+
+The Bodhisatta was at one time born in the region of Himavanta as a white crane; now Brahmadatta was at that time reigning in Benares. Now it chanced that as a lion was eating meat a bone stuck in his throat. The throat became swollen, he could not take food, his suffering was terrible. The crane seeing him, as he was perched an a tree looking for food, asked, "What ails thee, friend?" He told him why. "I could free thee from that bone, friend, but dare not enter thy mouth for fear thou mightest eat me." "Don't be afraid, friend, I'll not eat thee; only save my life." "Very well," says he, and caused him to lie down on his left side. But thinking to himself, "Who knows what this fellow will do," he placed a small stick upright between his two jaws that he could not close his mouth, and inserting his head inside his mouth struck one end of the bone with his beak. Whereupon the bone dropped and fell out. As soon as he had caused the bone to fall, he got out of the lion's mouth, striking the stick with his beak so that it fell out, and then settled on a branch. The lion gets well, and one day was eating a buffalo he had killed. The crane, thinking "I will sound him," settled an a branch just over him, and in conversation spoke this first verse:
+
+  "A service have we done thee
+    To the best of our ability,
+  King of the Beasts! Your Majesty!
+    What return shall we get from thee?"
+In reply the Lion spoke the second verse:
+
+  "As I feed on blood,
+    And always hunt for prey,
+  'Tis much that thou art still alive
+    Having once been between my teeth."
+Then in reply the crane said the two other verses:
+
+  "Ungrateful, doing no good,
+    Not doing as he would be done by,
+  In him there is no gratitude,
+    To serve him is useless.
+  "His friendship is not won
+    By the clearest good deed.
+  Better softly withdraw from him,
+    Neither envying nor abusing."
+And having thus spoken the crane flew away.
+
+And when the great Teacher, Gautama the Buddha, told this tale, he used to add: "Now at that time the lion was Devadatta the Traitor, but the white crane was I myself."
+
+ 
+
+Indian fairy tales
+Indian folktales
+
+Notes: Selected and edited by Joseph Jacobs, the book holds 29 Indian folktales.
+
+Author: Various
+Editor: Joseph Jacobs
+Published: 1910
+Publisher: G. P. Putnam's Sons, New York, London
+
+
+
+Book Spotlight
+Bechstein book coverThe Book of German Folk- and Fairy Tales
+Copyright 2008 - 2024 - Privacy policy - Terms of service - About
+Stories for children
+from around the world!
+Home
+Folktales
+African folktales
+Nigerian folktales
+South African folktales
+Tanzanian folktales
+Asian folktales
+Arabic folktales
+Chinese folktales
+Indian folktales
+Japanese folktales
+Filipino folktales
+Australian folktales
+European folktales
+Celtic folktales
+Germanic folktales
+Romanic folktales
+Slavic folktales
+North American folktales
+Native American folktales
+US folktales
+Canadian folktales
+South American folktales
+Brazilian folktales
+Users folktales
+Fairy tales
+Andersen's fairy tales
+Bechstein's fairy tales
+Grimms' fairy tales
+Grimms' biography
+Lang's fairy tales
+Perrault's fairy tales
+Bedtime Stories
+Cinderella
+Little Red Riding Hood
+Snow White
+The Snow Queen
+The Ugly Duckling
+Puss in Boots
+The Sleeping Beauty
+Beauty and the Beast
+The Little Mermaid
+The Princess and the Pea
+The Goose Girl
+The red shoes
+The Frog Prince
+The Fairy
+The naughty boy
+Hansel and Grethel
+Snow-White And Rose-Red
+Blue Beard
+The Valiant Little Tailor
+Rumpelstiltskin
+The emperor's new clothes
+The Elves and the Shoemaker
+Jack and the Beanstalk
+Goldilocks and the Bears
+Little Thumb
+Golden Goose
+Fables
+Users stories
+Other stories
+Books A-Z
+Aricles
+Useful links
+Contact
+Options
+
+
+Search
+
+
+
+Font size
+  
+`;export{e as default};

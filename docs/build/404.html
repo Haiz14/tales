@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" href="/tales/favicon.png" />
+		<meta name="viewport" content="width=device-width" />
+		
+		<link rel="modulepreload" href="/tales/_app/immutable/entry/start.bfa452c7.js">
+		<link rel="modulepreload" href="/tales/_app/immutable/chunks/scheduler.4f32addc.js">
+		<link rel="modulepreload" href="/tales/_app/immutable/chunks/singletons.c6ba81f0.js">
+		<link rel="modulepreload" href="/tales/_app/immutable/chunks/index.d8eea519.js">
+		<link rel="modulepreload" href="/tales/_app/immutable/chunks/control.f5b05b5f.js">
+		<link rel="modulepreload" href="/tales/_app/immutable/entry/app.c2e8ae93.js">
+		<link rel="modulepreload" href="/tales/_app/immutable/chunks/preload-helper.a4192956.js">
+		<link rel="modulepreload" href="/tales/_app/immutable/chunks/index.12f171ce.js">
+	</head>
+	<body data-sveltekit-preload-data="hover" data-theme="hamlindigo">
+		<div style="display: contents">
+			<script>
+				{
+					__sveltekit_10xdhjv = {
+						assets: "/tales",
+						base: "/tales",
+						env: {}
+					};
+
+					const element = document.currentScript.parentElement;
+
+					Promise.all([
+						import("/tales/_app/immutable/entry/start.bfa452c7.js"),
+						import("/tales/_app/immutable/entry/app.c2e8ae93.js")
+					]).then(([kit, app]) => {
+						kit.start(app, element);
+					});
+				}
+			</script>
+		</div>
+	</body>
+</html>

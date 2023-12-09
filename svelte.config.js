@@ -10,6 +10,10 @@ const config = {
 	preprocess: [ vitePreprocess()],
 	
 	kit: {
+		paths: {
+			base:'/tales',
+		},
+		
 		alias:{
 			tales:'tales/',
 		},
